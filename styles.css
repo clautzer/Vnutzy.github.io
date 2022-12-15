@@ -1,0 +1,13 @@
+      .linked {
+      color: black;
+      text-decoration: none;
+      position: absolute;
+      width: 100%;
+      font-size: 18px;
+      text-align: center;
+    }
+
+    .div {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    }
